@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="609fee9b-4056-409c-bba4-c1a5c7dcfcb0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/mgo_model.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drivers/mongo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+              <folding>
+                <element signature="e#100#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Insert</find>
+      <find>collectione</find>
+      <find>NewTrainer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>collection</replace>
+      <replace>NewMgo</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/deploy_env.sh" />
+        <option value="$PROJECT_DIR$/mgo.go" />
+        <option value="$PROJECT_DIR$/mgodb/mgo_test.go" />
+        <option value="$PROJECT_DIR$/mgodb/initDB.go" />
+        <option value="$PROJECT_DIR$/models/initDB.go" />
+        <option value="$PROJECT_DIR$/mgodb/mgo.go" />
+        <option value="$PROJECT_DIR$/init.go" />
+        <option value="$PROJECT_DIR$/models/mgo.go" />
+        <option value="$PROJECT_DIR$/models/mongo.go" />
+        <option value="$PROJECT_DIR$/drivers/Mongo.go" />
+        <option value="$PROJECT_DIR$/drivers/mongo.go" />
+        <option value="$PROJECT_DIR$/models/TrainerModel.go" />
+        <option value="$PROJECT_DIR$/models/mgo_model.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go-mongo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-mongo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-mongo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-mongo" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-mongo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-mongo" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/go-code/project/bingo_service" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.099358976" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io,direct</proxy>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile" />
+    <entry file="file://$PROJECT_DIR$/mgo.go" />
+    <entry file="file://$PROJECT_DIR$/mgodb/mgo_test.go" />
+    <entry file="file://$PROJECT_DIR$/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.mongodb.org/mongo-driver@v1.1.2/mongo/options/clientoptions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="79" column="48" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.mongodb.org/mongo-driver@v1.1.2/mongo/results.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.mongodb.org/mongo-driver@v1.1.2/mongo/database.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="98" column="91" selection-start-line="98" selection-start-column="80" selection-end-line="98" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.mongodb.org/mongo-driver@v1.1.2/mongo/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="469" column="17" selection-start-line="469" selection-start-column="17" selection-end-line="469" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/os/env_default.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/go/src/os/executable_windows.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.mongodb.org/mongo-driver@v1.1.2/mongo/collection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="938" column="35" lean-forward="true" selection-start-line="938" selection-start-column="35" selection-end-line="938" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/go.mongodb.org/mongo-driver@v1.1.2/mongo/single_result.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/mgo_model.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/mongo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="e#100#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
